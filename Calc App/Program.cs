@@ -22,6 +22,7 @@ namespace Calc_App
             Console.WriteLine("Select a number");
            totalNumber.number = Int32.Parse(Console.ReadLine());
             Console.WriteLine(totalNumber.number);
+            Console.WriteLine("Testing");
         
             }
         
